@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960ce1f1-ded2-4621-ab8e-d030cb1c0867" name="Changes" comment="yml lagt till clean">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+    <list default="true" id="960ce1f1-ded2-4621-ab8e-d030cb1c0867" name="Changes" comment="updated yml 2">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/superLinter.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,13 +156,36 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1706693710306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="updated yml">
+      <option name="closed" value="true" />
+      <created>1706694786969</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1706694786969</updated>
+    </task>
+    <task id="LOCAL−00004" summary="updated yml 2">
+      <option name="closed" value="true" />
+      <created>1706694835982</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1706694835982</updated>
+    </task>
+    <task id="LOCAL−00005" summary="updated yml 2">
+      <option name="closed" value="true" />
+      <created>1706695179233</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1706695179233</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pom och yml fil uppdaterade" />
     <MESSAGE value="yml lagt till clean" />
-    <option name="LAST_COMMIT_MESSAGE" value="yml lagt till clean" />
+    <MESSAGE value="updated yml" />
+    <MESSAGE value="updated yml 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated yml 2" />
   </component>
 </project>
