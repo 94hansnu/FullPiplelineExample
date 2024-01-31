@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960ce1f1-ded2-4621-ab8e-d030cb1c0867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="960ce1f1-ded2-4621-ab8e-d030cb1c0867" name="Changes" comment="yml lagt till clean">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Messenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Messenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestMessenger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,9 +142,27 @@
       <option name="presentableId" value="Default" />
       <updated>1706688681633</updated>
     </task>
+    <task id="LOCAL−00001" summary="pom och yml fil uppdaterade">
+      <option name="closed" value="true" />
+      <created>1706693141470</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1706693141470</updated>
+    </task>
+    <task id="LOCAL−00002" summary="yml lagt till clean">
+      <option name="closed" value="true" />
+      <created>1706693710306</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1706693710306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="pom och yml fil uppdaterade" />
+    <MESSAGE value="yml lagt till clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="yml lagt till clean" />
   </component>
 </project>
